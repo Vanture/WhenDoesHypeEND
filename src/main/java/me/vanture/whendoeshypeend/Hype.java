@@ -9,6 +9,10 @@ import java.util.Date;
 public class Hype {
     public static void main(String[] args) {
 
+        /* 
+        * It's so cringy but funny...
+        */
+        
         // When does the Hype really end? Well it will finally be calculated!
         long H = 'H';
         long y = 'y';
